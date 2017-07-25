@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{3E8AD704-BD70-ADAD-6EC7-AF4247C9F3E0}") = "TickerTaker", "TickerTaker.csproj", "{02AA079F-4CB9-7396-1886-4880143501ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02AA079F-4CB9-7396-1886-4880143501ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AA079F-4CB9-7396-1886-4880143501ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AA079F-4CB9-7396-1886-4880143501ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AA079F-4CB9-7396-1886-4880143501ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
